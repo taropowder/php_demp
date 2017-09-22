@@ -1,0 +1,28 @@
+.title_name {
+	text-align: center;
+	font-size: 36px;
+	color: #000;
+}
+.table_name {
+	font-size: 60px;
+	color: #FFF;
+	width: 400px;
+}
+.table_table{
+	position: absolute;
+	left: 409px;
+	top: 174px;
+	width: 724px;
+	height: 250x;
+		
+}
+.table_table table tr td {
+	font-size: 36px;
+}
+.table_table_input{
+	width:400px;
+	height:50px;
+}
+.table_table_table{
+	
+}
